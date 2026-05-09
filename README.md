@@ -1,4 +1,4 @@
-# git-data-discord-bot
+# discord-helper-bot
 
 Discord bot for a small team:
 
